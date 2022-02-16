@@ -1,0 +1,29 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Mapple7777/UI-Librarys/main/UI-1/UI.lua"))()
+--local Whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/silentgod145/whitelist/main/whitelist",true))()
+
+ local Window = Library:Create("aim.wow","Krnl")
+
+local Tab1 = Window:Tab("bs",true)
+
+
+
+Tab1:Button("excute fly (x)",function(bool)
+    loadstring(game:HttpGet("https://pastebin.com/raw/sUA9m6M6"))()
+end)
+
+local Tab2 = Window:Tab("clientside",true)
+Tab2:Button("Erro buy Synpase"
+
+local Tab2 = Window:Tab("aim.wow",true)
+ 
+Tab2:Button("sike again man ",function(bool)
+  
+local Tab4 = Window:Tab("🦽 anti and fov🦽",true)
+
+Tab4:Slider("Fov Camera",80,200,function(text)
+    workspace.CurrentCamera.FieldOfView = (text)
+end)
+
+local Tab4 = Window:Tab("Krnl Credits",true)
+Tab2:Button("Krnl L ",
+end)
